@@ -15,7 +15,7 @@ import { CommonModule } from '@angular/common';
     ],
     declarations: [
         HeroComponent,
-        ListComponent,
+        ListComponent, 
     ],
     providers: [],
 })
